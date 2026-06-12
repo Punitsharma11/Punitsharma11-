@@ -1,511 +1,201 @@
-<h1 align="center">Hi there, I'm Punit Sharma 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Network Engineer · DevOps Engineer · Cybersecurity Specialist</b><br/>
-  C-DAC Mohali &nbsp;|&nbsp; Networking · Security · DevOps · Cloud
-</p>
+# Punit Sharma
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Punitsharma11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+**Network Engineer · DevOps · Cybersecurity**
+Building infrastructure that doesn't sleep.
 
----
+`◎ C-DAC Mohali, Punjab, India`
 
-## 👨‍💻 About Me
-
-I'm a **Network Engineer at C-DAC Mohali**, specializing in the **deployment and maintenance of Honeypot Sensors**, network security, firewall management, and TCP/IP infrastructure. I also work extensively with **DevOps tools** — automating infrastructure, building CI/CD pipelines, and managing cloud deployments on AWS.
-
-- 🔭 Currently working on **Honeypot sensor infrastructure** at C-DAC Mohali
-- 🔥 Managing **firewalls, routing protocols (OSPF, BGP, RIP)** and network access controls
-- 🌐 Deep expertise in **TCP/IP stack, subnetting, VLANs, and network troubleshooting**
-- ⚙️ Building **CI/CD pipelines** with Jenkins, automating infra with Ansible & Terraform
-- ☁️ Deploying and managing workloads on **AWS** — EC2, VPC, IAM, S3, CloudWatch
-- ☸️ Hands-on with **Kubernetes** — deploying, scaling, and managing containerized applications
-- 🚨 Deploying **IDS/IPS systems** (Suricata, Snort) for real-time threat detection
-- 🛡️ Passionate about **Cybersecurity, Threat Detection & Network Security**
-- 📍 Based in **Mohali, Punjab, India**
+</div>
 
 ---
-
-## 🛠️ Technical Skills
-
-### 🌐 Networking & Protocols
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0a0a0a?style=flat&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-005073?style=flat&logo=cisco&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-1a1a2e?style=flat&logo=cisco&logoColor=white)
-![RIP](https://img.shields.io/badge/RIP-2c3e50?style=flat&logo=cisco&logoColor=white)
-![VLANs](https://img.shields.io/badge/VLANs-0077B5?style=flat&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-4a90d9?style=flat&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-6c3483?style=flat&logo=cisco&logoColor=white)
-
-### 🔥 Security & Firewall
-![Firewall](https://img.shields.io/badge/Firewall%20Management-E74C3C?style=flat&logo=paloaltonetworks&logoColor=white)
-![iptables](https://img.shields.io/badge/iptables-c0392b?style=flat&logo=linux&logoColor=white)
-![Honeypot](https://img.shields.io/badge/Honeypot%20Systems-8e1a1a?style=flat&logo=hackthebox&logoColor=white)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-922b21?style=flat&logo=shield&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF5C00?style=flat&logo=suricata&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat&logo=snort&logoColor=white)
-![Zeek](https://img.shields.io/badge/Zeek-0060A8?style=flat&logo=zeek&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Network Monitoring](https://img.shields.io/badge/Network%20Monitoring-17a589?style=flat&logo=grafana&logoColor=white)
-
-### ⚙️ DevOps & CI/CD
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### 💻 OS & Scripting
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🍯 Honeypot Sensor Network — C-DAC Mohali
-> Deployment and maintenance of distributed honeypot sensors across network infrastructure
-
-- Deployed low/medium-interaction honeypot sensors to capture attack patterns
-- Monitored and analyzed malicious traffic, port scans, and brute-force attempts
-- Maintained sensor health, uptime, and alert pipelines
-- Contributed to threat intelligence data collection for national-level cybersecurity initiatives
-
----
-
-### 🎭 Deception as a Service — C-DAC Mohali
-> 🚧 **In Progress**
-
-Designing and implementing a centralized **Deception-as-a-Service (DaaS)** platform — deploying honeypots and decoy assets across the network as a managed service to lure, detect, and study attackers in real time.
-
-- Building scalable honeypot infrastructure that can be deployed on-demand across multiple network segments
-- Integrating deception layers (fake credentials, fake services, decoy files) to maximize attacker engagement
-- Centralizing alert collection and analysis from distributed honeypot sensors
-- Goal: make deception technology accessible as a service rather than a one-off deployment
-
-**Tech stack:** `Honeypots` `Linux` `Docker` `Python` `Network Security`
-
----
-
-### 🌑 Digital Shadow — C-DAC Mohali
-> 🚧 **In Progress**
-
-Building a **Digital Shadow** monitoring system to track and analyze an organization's exposed digital footprint — identifying leaked credentials, exposed assets, and sensitive data visible to attackers on the open and dark web.
-
-- Monitoring paste sites, breach databases, and open sources for exposed organizational data
-- Mapping the external attack surface — open ports, exposed services, misconfigured assets
-- Generating actionable threat intelligence reports for security teams
-- Goal: see your organization the way an attacker sees it — before they act
-
-**Tech stack:** `Python` `OSINT Tools` `Linux` `Network Recon` `Threat Intelligence`
-
----
-
-## 🌐 Core Networking Expertise
-
-### 🔥 Firewall Management
-> Controlling what traffic enters and leaves the network
-
-- Configuring **stateful firewalls** — allow/deny rules based on IP, port, protocol
-- Managing **iptables** on Linux for packet filtering, NAT, and port forwarding
-- Setting up **DMZ zones** to isolate public-facing servers from internal networks
-- Implementing **ACLs (Access Control Lists)** on routers and switches
-- Regular **firewall rule audits** to remove stale/overly permissive rules
-
-### 🔄 Routing Protocols
-
-| Protocol | Type | Used For | Key Fact |
-|----------|------|----------|----------|
-| **RIP** | Distance Vector | Small networks | Max 15 hops — simple but limited |
-| **OSPF** | Link State | Enterprise networks | Uses Dijkstra's algorithm — fast convergence |
-| **BGP** | Path Vector | Internet / ISP routing | The protocol that runs the internet |
-| **Static Routes** | Manual | Small/predictable paths | No overhead, but no auto-failover |
-
-### 🧩 TCP/IP Stack — Deep Understanding
-
-```
-Layer 7 - Application   →  HTTP, DNS, FTP, SSH
-Layer 4 - Transport     →  TCP (reliable) / UDP (fast)
-Layer 3 - Network       →  IP Addressing, Routing, ICMP
-Layer 2 - Data Link     →  MAC Addresses, VLANs, Switches
-Layer 1 - Physical      →  Cables, NICs, Signals
-```
-
-- **Subnetting** — calculating network/host ranges, CIDR notation
-- **NAT/PAT** — translating private IPs to public for internet access
-- **TCP 3-way handshake** — SYN → SYN-ACK → ACK
-- **ARP** — resolving IP to MAC address on local network
-- **VLAN segmentation** — isolating traffic between departments/zones
-
----
-
-## 🐧 Linux — Core Skills
-
-> Linux is the backbone of everything I work on — servers, containers, cloud, and security tools all run on it.
 
 ```bash
-# System administration
-systemctl start|stop|enable|status <service>
-journalctl -u <service> -f          # live logs
-top / htop / iotop                  # process & resource monitoring
-
-# Networking on Linux
-ip addr show                        # view interfaces & IPs
-ip route show                       # routing table
-ss -tulnp                           # open ports & listening services
-tcpdump -i eth0 port 80             # packet capture
-
-# File & permission management
-chmod 755 script.sh
-chown user:group file
-find / -name "*.conf" -type f
+$ whoami → network engineer who automates everything & secures the rest
 ```
 
 ---
 
-## 🐳 Docker — Containerization
+## 👤 About
 
-> Package apps and their dependencies into portable containers that run anywhere.
-
-```dockerfile
-# Sample Dockerfile
-FROM ubuntu:22.04
-RUN apt-get update && apt-get install -y nginx
-COPY ./app /var/www/html
-EXPOSE 80
-CMD ["nginx", "-g", "daemon off;"]
-```
-
-```bash
-docker build -t myapp:v1 .           # build image
-docker run -d -p 80:80 myapp:v1      # run container
-docker ps                            # list running containers
-docker logs <container_id>           # view logs
-docker-compose up -d                 # start multi-container app
-```
-
-**Key concepts:** Images · Containers · Volumes · Networks · Docker Compose · Container Registry
+| | |
+|---|---|
+| 📡 | Honeypot Sensor infra @ C-DAC Mohali |
+| 🔀 | Routing — BGP · OSPF · EIGRP · RIP |
+| ☁️ | AWS Cloud infrastructure |
+| ☸️ | Kubernetes — on-prem + EKS + kops |
+| 🛡️ | IDS/IPS · Honeypots · Threat detection |
+| 📊 | ELK Stack — Elasticsearch + Kibana |
+| 👻 | Building Deception-as-a-Service |
+| 🌑 | Building Digital Shadow |
 
 ---
 
-## 🔁 CI/CD with Jenkins
+## 🌐 Networking
 
-> Automate the entire software delivery pipeline — from code commit to production deployment.
+**`Routing`**
+![BGP](https://img.shields.io/badge/BGP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![EIGRP](https://img.shields.io/badge/EIGRP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![RIP](https://img.shields.io/badge/RIP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![Static Routes](https://img.shields.io/badge/Static_Routes-0C447C?style=flat-square&logo=cisco&logoColor=white)
 
-```
-Developer pushes code → GitHub Webhook triggers Jenkins
-    → Jenkins pulls code → Run tests → Build Docker image
-    → Push to registry → Deploy to Kubernetes/Server ✅
-```
+**`Switching`**
+![VLANs](https://img.shields.io/badge/VLANs-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![STP](https://img.shields.io/badge/STP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![RSTP](https://img.shields.io/badge/RSTP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![Trunking](https://img.shields.io/badge/Trunking-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![EtherChannel](https://img.shields.io/badge/EtherChannel-0C447C?style=flat-square&logo=cisco&logoColor=white)
 
-```groovy
-// Sample Jenkinsfile
-pipeline {
-    agent any
-    stages {
-        stage('Build') {
-            steps { sh 'docker build -t myapp:${BUILD_NUMBER} .' }
-        }
-        stage('Test') {
-            steps { sh 'docker run myapp:${BUILD_NUMBER} pytest' }
-        }
-        stage('Deploy') {
-            steps { sh 'kubectl apply -f deployment.yaml' }
-        }
-    }
-}
-```
+**`Firewall`**
+![iptables](https://img.shields.io/badge/iptables-0C447C?style=flat-square&logo=linux&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-0C447C?style=flat-square&logoColor=white)
+![ACL](https://img.shields.io/badge/ACL-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![DMZ](https://img.shields.io/badge/DMZ-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![NAT/PAT](https://img.shields.io/badge/NAT%2FPAT-0C447C?style=flat-square&logo=cisco&logoColor=white)
 
-**Key concepts:** Pipelines · Stages · Agents · Webhooks · Plugins · Blue Ocean UI
+**`Protocols`**
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0C447C?style=flat-square&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-0C447C?style=flat-square&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-0C447C?style=flat-square&logoColor=white)
+![ICMP](https://img.shields.io/badge/ICMP-0C447C?style=flat-square&logoColor=white)
+![ARP](https://img.shields.io/badge/ARP-0C447C?style=flat-square&logoColor=white)
 
----
-
-## 🤖 Ansible — Configuration Management
-
-> Automate server configuration, app deployment, and task execution — without writing a single line of code on the servers.
-
-```yaml
-# Sample Playbook — Install and start Nginx
-- name: Setup Web Server
-  hosts: webservers
-  become: yes
-  tasks:
-    - name: Install nginx
-      apt:
-        name: nginx
-        state: present
-
-    - name: Start nginx
-      service:
-        name: nginx
-        state: started
-        enabled: yes
-```
-
-**Key concepts:** Playbooks · Inventory · Roles · Modules · Idempotency · SSH-based (agentless)
+**`Tools`**
+![Wireshark](https://img.shields.io/badge/Wireshark-0C447C?style=flat-square&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-0C447C?style=flat-square&logo=linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0C447C?style=flat-square&logoColor=white)
 
 ---
 
-## 🏗️ Terraform — Infrastructure as Code
+## 🛡️ Cybersecurity
 
-> Define your entire cloud infrastructure in code — create, update, destroy with a single command.
+**`IDS / IPS`**
+![Suricata](https://img.shields.io/badge/Suricata-791F1F?style=flat-square&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-791F1F?style=flat-square&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-791F1F?style=flat-square&logoColor=white)
 
-```hcl
-# Sample — Launch an EC2 instance on AWS
-provider "aws" {
-  region = "ap-south-1"
-}
+**`Deception`**
+![Honeypot](https://img.shields.io/badge/Honeypot_Systems-791F1F?style=flat-square&logo=hackthebox&logoColor=white)
+![DaaS](https://img.shields.io/badge/Deception--as--a--Service-791F1F?style=flat-square&logoColor=white)
 
-resource "aws_instance" "web" {
-  ami           = "ami-0f5ee92e2d63afc18"
-  instance_type = "t2.micro"
+**`Recon & OSINT`**
+![OSINT](https://img.shields.io/badge/OSINT-791F1F?style=flat-square&logoColor=white)
+![Digital Shadow](https://img.shields.io/badge/Digital_Shadow-791F1F?style=flat-square&logoColor=white)
+![Attack Surface](https://img.shields.io/badge/Attack_Surface-791F1F?style=flat-square&logoColor=white)
 
-  tags = {
-    Name = "PunitWebServer"
-  }
-}
-```
-
-```bash
-terraform init      # download providers
-terraform plan      # preview changes
-terraform apply     # create infrastructure
-terraform destroy   # tear everything down
-```
-
-**Key concepts:** Providers · Resources · State file · Modules · Variables · Remote backend
+**`Monitoring & SIEM`**
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-791F1F?style=flat-square&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-791F1F?style=flat-square&logo=kibana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-791F1F?style=flat-square&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-791F1F?style=flat-square&logoColor=white)
 
 ---
 
-## ☁️ AWS — Cloud Infrastructure
+## ☁️ Cloud — AWS
 
-> Hands-on experience deploying and managing cloud infrastructure on Amazon Web Services.
+**`Compute`**
+![EC2](https://img.shields.io/badge/EC2-633806?style=flat-square&logo=amazonec2&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-633806?style=flat-square&logo=awslambda&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-633806?style=flat-square&logo=amazonaws&logoColor=white)
 
-| Service | What I Work With |
-|---------|-----------------|
-| **EC2** | Launch and manage Linux virtual machines — configure, secure, and monitor instances |
-| **S3** | Object storage — backups, static files, Terraform remote state |
-| **VPC** | Design private cloud networks — subnets, route tables, internet/NAT gateways |
-| **IAM** | Users, roles, and policies — enforce least-privilege access control |
-| **Security Groups** | Virtual firewall — inbound/outbound rules for EC2 instances |
-| **CloudWatch** | Monitoring dashboards, log groups, and alerting |
-| **Route 53** | DNS management and domain routing |
-| **EKS** | Managed Kubernetes cluster on AWS |
+**`Network`**
+![VPC](https://img.shields.io/badge/VPC-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route53-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![ELB](https://img.shields.io/badge/ELB-633806?style=flat-square&logo=amazonaws&logoColor=white)
 
-```bash
-# Common AWS CLI commands I use
-aws ec2 describe-instances --region ap-south-1
-aws s3 cp file.txt s3://my-bucket/
-aws iam list-users
-aws cloudwatch describe-alarms
-aws eks update-kubeconfig --name my-cluster --region ap-south-1
-```
+**`Security`**
+![IAM](https://img.shields.io/badge/IAM-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/Security_Groups-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-633806?style=flat-square&logo=amazonaws&logoColor=white)
 
----
-
-## 🚨 IDS / IPS — Intrusion Detection & Prevention
-
-> Monitoring network traffic in real time to detect and block attacks before they cause damage.
-
-### IDS vs IPS — What's the Difference?
-
-| | IDS (Intrusion Detection System) | IPS (Intrusion Prevention System) |
-|---|---|---|
-| **Action** | Detects & alerts only | Detects & **blocks** automatically |
-| **Position** | Out-of-band (mirror/tap) | Inline (traffic passes through it) |
-| **Risk** | No false-positive blocking | Can block legitimate traffic if misconfigured |
-| **Use case** | Monitoring & forensics | Active threat prevention |
+**`Storage & Ops`**
+![S3](https://img.shields.io/badge/S3-633806?style=flat-square&logo=amazons3&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-633806?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-### 🟠 Suricata — High-Performance IDS/IPS
+## ⚙️ Automation & DevOps
 
-> Suricata is a fast, open-source network threat detection engine. It can act as IDS, IPS, or a Network Security Monitoring (NSM) tool.
+**`Infrastructure as Code`**
+![Terraform](https://img.shields.io/badge/Terraform-27500A?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-27500A?style=flat-square&logo=ansible&logoColor=white)
 
-```bash
-# Install Suricata on Ubuntu
-apt-get install suricata
+**`CI/CD`**
+![Jenkins](https://img.shields.io/badge/Jenkins-27500A?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-27500A?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-27500A?style=flat-square&logo=githubactions&logoColor=white)
 
-# Run in IDS mode — monitor interface eth0
-suricata -c /etc/suricata/suricata.yaml -i eth0
+**`Code Quality`**
+![SonarQube](https://img.shields.io/badge/SonarQube-27500A?style=flat-square&logo=sonarqube&logoColor=white)
+![Quality Gates](https://img.shields.io/badge/Quality_Gates-27500A?style=flat-square&logo=sonarqube&logoColor=white)
 
-# Run in IPS mode — inline with nfqueue
-suricata -c /etc/suricata/suricata.yaml -q 0
-
-# Update threat rules (Emerging Threats ruleset)
-suricata-update
-
-# Check live alerts
-tail -f /var/log/suricata/fast.log
-
-# Full JSON event log (EVE log) — great for SIEM integration
-tail -f /var/log/suricata/eve.json
-```
-
-**How Suricata detects threats:**
-- Matches traffic against **signature rules** based on IP, port, and payload patterns
-- **Protocol detection** — automatically identifies HTTP, DNS, TLS, SMB traffic
-- **File extraction** — pulls files from network streams for malware analysis
-- **TLS/SSL inspection** — logs certificates, SNI, JA3 fingerprints
-- Outputs to **EVE JSON** — easily ingested by Elasticsearch, Splunk, Grafana
-
-```yaml
-# Sample Suricata rule — detect NMAP SYN scan
-alert tcp any any -> $HOME_NET any (
-  msg:"NMAP SYN Scan Detected";
-  flags:S;
-  threshold: type threshold, track by_src, count 20, seconds 1;
-  sid:1000001; rev:1;
-)
-```
+**`Version Control`**
+![Git](https://img.shields.io/badge/Git-27500A?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-27500A?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-27500A?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
 
-### 🔴 Snort — The Original IDS/IPS
+## ☸️ Kubernetes & Docker
 
-> Snort is the pioneer of open-source IDS/IPS, originally developed by Cisco. Rule-based detection, runs inline or in monitoring mode.
+**`Kubernetes`**
+![On-Prem K8s](https://img.shields.io/badge/On--Prem_K8s-3C3489?style=flat-square&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-3C3489?style=flat-square&logo=amazonaws&logoColor=white)
+![kops](https://img.shields.io/badge/kops-3C3489?style=flat-square&logo=kubernetes&logoColor=white)
+![kubectl](https://img.shields.io/badge/kubectl-3C3489?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-3C3489?style=flat-square&logo=helm&logoColor=white)
+![Ingress](https://img.shields.io/badge/Ingress-3C3489?style=flat-square&logo=kubernetes&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-3C3489?style=flat-square&logo=kubernetes&logoColor=white)
 
-```bash
-# Run Snort in IDS mode
-snort -A console -i eth0 -c /etc/snort/snort.conf
-
-# Test config file for errors
-snort -T -c /etc/snort/snort.conf
-
-# Sample Snort rule — detect FTP login attempt
-alert tcp any any -> $HOME_NET 21 (
-  msg:"FTP Login Attempt";
-  flow:to_server,established;
-  content:"USER"; nocase;
-  sid:1000002; rev:1;
-)
-```
-
-**Snort vs Suricata:**
-
-| Feature | Snort | Suricata |
-|---------|-------|----------|
-| **Multi-threading** | Single-threaded | Multi-threaded (faster on modern hardware) |
-| **Rule compatibility** | Native Snort rules | Fully compatible with Snort rules |
-| **Protocol support** | Good | Excellent (HTTP2, TLS, SMB, DNS-over-TLS, etc.) |
-| **Output formats** | Unified2, syslog | EVE JSON (SIEM-friendly) |
-| **Best for** | Legacy environments | New deployments, high-traffic networks |
+**`Docker`**
+![Docker](https://img.shields.io/badge/Docker-3C3489?style=flat-square&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-3C3489?style=flat-square&logo=docker&logoColor=white)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-3C3489?style=flat-square&logo=docker&logoColor=white)
+![Registry](https://img.shields.io/badge/Registry-3C3489?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🔵 Zeek (formerly Bro) — Network Analysis Framework
+## 🐧 Linux & Scripting
 
-> Zeek does not use signatures — it passively creates detailed **network activity logs** for forensic analysis and threat hunting.
+**`OS`**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-085041?style=flat-square&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-085041?style=flat-square&logo=centos&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-085041?style=flat-square&logo=debian&logoColor=white)
 
-```
-What Zeek logs automatically:
-  conn.log      →  every TCP/UDP connection (src, dst, duration, bytes)
-  dns.log       →  all DNS queries and responses
-  http.log      →  HTTP requests, URLs, user-agents, response codes
-  ssl.log       →  TLS handshakes, certificates, SNI
-  files.log     →  files transferred over the network
-  notice.log    →  anomalies and policy violations detected
-```
+**`Scripting`**
+![Bash](https://img.shields.io/badge/Bash-085041?style=flat-square&logo=gnubash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-085041?style=flat-square&logo=gnubash&logoColor=white)
+![Cron Jobs](https://img.shields.io/badge/Cron_Jobs-085041?style=flat-square&logo=linux&logoColor=white)
+![AI-assisted Python](https://img.shields.io/badge/AI--assisted_Python-085041?style=flat-square&logo=python&logoColor=white)
 
-**Zeek vs Suricata:** Zeek logs everything for deep analysis; Suricata alerts on known bad patterns. Use **both together** for maximum coverage.
+**`Filesystem`**
+![ext4](https://img.shields.io/badge/ext4-085041?style=flat-square&logo=linux&logoColor=white)
+![LVM](https://img.shields.io/badge/LVM-085041?style=flat-square&logo=linux&logoColor=white)
+![NFS](https://img.shields.io/badge/NFS-085041?style=flat-square&logo=linux&logoColor=white)
+![Permissions](https://img.shields.io/badge/Permissions-085041?style=flat-square&logo=linux&logoColor=white)
 
----
-
-### 🔄 Full IDS/IPS Deployment Architecture
-
-```
-Internet Traffic
-      ↓
-  Firewall (iptables / pfSense)  ←— Layer 1: Block known bad IPs & ports
-      ↓
-  Suricata IPS (inline)          ←— Layer 2: Block malicious payloads in real time
-      ↓
-  Internal Network
-      ↓
-  Zeek (mirror/tap port)         ←— Layer 3: Log & analyse all activity silently
-      ↓
-  Honeypot Sensors               ←— Layer 4: Trap & study attacker behavior
-      ↓
-  Alerts → SIEM / Dashboard      ←— Layer 5: Correlate, visualise, respond
-```
+**`Tools`**
+![systemctl](https://img.shields.io/badge/systemctl-085041?style=flat-square&logo=linux&logoColor=white)
+![journalctl](https://img.shields.io/badge/journalctl-085041?style=flat-square&logo=linux&logoColor=white)
+![vim](https://img.shields.io/badge/vim-085041?style=flat-square&logo=vim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-085041?style=flat-square&logo=tmux&logoColor=white)
+![ssh](https://img.shields.io/badge/ssh-085041?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## ☸️ Kubernetes Architecture — My Learning Notes
+## 📫 Connect
 
-> Understanding K8s from the ground up
-
-### 🧠 Master Node (Control Plane) — The Brain
-
-| Component | Role | Key Point |
-|-----------|------|-----------|
-| **API Server** | Entry point for all requests | Every kubectl command hits this first |
-| **Scheduler** | Assigns pods to worker nodes | Checks CPU/memory before placing a pod |
-| **etcd** | Distributed key-value store | Stores entire cluster state — back this up! |
-| **Controller Manager** | Maintains desired state | If a pod crashes, it auto-creates a new one |
-| **Cloud Controller Manager** | Cloud provider integration | Manages AWS/GCP/Azure resources (LBs, storage) |
-
-### ⚙️ Worker Node (Data Plane) — The Hands
-
-| Component | Role | Key Point |
-|-----------|------|-----------|
-| **Kubelet** | Node-level agent | Receives PodSpecs from master, runs containers |
-| **Kube-Proxy** | Network traffic routing | Handles pod-to-pod communication via iptables |
-| **Container Runtime** | Runs actual containers | containerd / Docker — pulled and executed here |
-
-### 📦 Pod — The Smallest Unit
-> A pod wraps one or more containers that share the same network IP and storage volume.
-> Kubernetes manages **pods**, not containers directly.
-
-### 🔄 Request Flow
-```
-kubectl apply → API Server → etcd (saves state) → Scheduler (picks node)
-    → Kubelet on Worker Node → Container Runtime → Pod is running ✅
-```
+[![Email](https://img.shields.io/badge/panditpunit6%40gmail.com-791F1F?style=flat-square&logo=gmail&logoColor=white)](mailto:panditpunit6@gmail.com)
+[![GitHub](https://img.shields.io/badge/Punitsharma11-2C2C2A?style=flat-square&logo=github&logoColor=white)](https://github.com/Punitsharma11)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Punitsharma11&show_icons=true&theme=github_dark&hide_border=true" alt="Punit's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punitsharma11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
----
-
-## 📫 Contact Me
-
-<p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Punitsharma11">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
-> 📍 C-DAC Mohali, Punjab, India
-
----
-
-<p align="center">
-  <i>"Automate everything. Secure everything. Learn everything." </i>
-</p>
+<div align="center">
+<sub><i>"Automate the boring. Secure the rest. Break nothing."</i></sub>
+</div>
