@@ -2,8 +2,7 @@
 
 # Punit Sharma
 
-**Network Engineer · DevOps · Cybersecurity**
-Building infrastructure that doesn't sleep.
+**Network Engineer · DevOps Engineer · Cybersecurity Specialist**
 
 `◎ C-DAC Mohali, Punjab, India`
 
@@ -17,16 +16,26 @@ $ whoami → network engineer who automates everything & secures the rest
 
 ---
 
-## 👤 About
+## 👤 About Me
+
+I'm a **Network Engineer at C-DAC Mohali**, working on the deployment and maintenance of **Honeypot Sensor infrastructure** for national-level cybersecurity initiatives. I specialize in **routing protocols** (BGP, OSPF, EIGRP), firewall management, switching, and VLANs — with hands-on experience building and securing large-scale networks.
+
+On the DevOps side, I build **CI/CD pipelines** with Jenkins, automate infrastructure using Ansible and Terraform, and manage containerized workloads with **Docker and Kubernetes** — both on-premises and on AWS (EKS, kops). I work daily on **Linux**, writing shell scripts, managing filesystems, and keeping systems healthy.
+
+I'm currently building two projects — **Deception-as-a-Service** (on-demand honeypot platform) and **Digital Shadow** (monitoring an org's exposed digital footprint). I use **ELK Stack** (Elasticsearch + Kibana) for log analysis and threat visualization, and **SonarQube** for code quality checks in pipelines.
 
 | | |
 |---|---|
-| 📡 | Honeypot Sensor infra @ C-DAC Mohali |
-| 🔀 | Routing — BGP · OSPF · EIGRP · RIP |
-| ☁️ | AWS Cloud infrastructure |
+| 🎯 | Honeypot Sensor infra @ C-DAC Mohali |
+| 🔀 | BGP · OSPF · EIGRP · RIP routing protocols |
+| ⚙️ | Jenkins · Ansible · Terraform · CI/CD pipelines |
+| ☁️ | AWS — EC2, VPC, EKS, IAM, CloudWatch |
 | ☸️ | Kubernetes — on-prem + EKS + kops |
-| 🛡️ | IDS/IPS · Honeypots · Threat detection |
+| 🐧 | Linux + Bash + Shell scripting daily |
+| 🛡️ | IDS/IPS — Suricata · Snort · Zeek |
 | 📊 | ELK Stack — Elasticsearch + Kibana |
+| ✅ | SonarQube — quality gate checks in pipelines |
+| 🤖 | AI-assisted dev — Claude · ChatGPT |
 | 👻 | Building Deception-as-a-Service |
 | 🌑 | Building Digital Shadow |
 
@@ -85,7 +94,7 @@ $ whoami → network engineer who automates everything & secures the rest
 ![Digital Shadow](https://img.shields.io/badge/Digital_Shadow-791F1F?style=flat-square&logoColor=white)
 ![Attack Surface](https://img.shields.io/badge/Attack_Surface-791F1F?style=flat-square&logoColor=white)
 
-**`Monitoring & SIEM`**
+**`SIEM & Monitoring`**
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-791F1F?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-791F1F?style=flat-square&logo=kibana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-791F1F?style=flat-square&logoColor=white)
@@ -105,6 +114,7 @@ $ whoami → network engineer who automates everything & secures the rest
 ![VPC](https://img.shields.io/badge/VPC-633806?style=flat-square&logo=amazonaws&logoColor=white)
 ![Route53](https://img.shields.io/badge/Route53-633806?style=flat-square&logo=amazonaws&logoColor=white)
 ![ELB](https://img.shields.io/badge/ELB-633806?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-633806?style=flat-square&logo=amazonaws&logoColor=white)
 
 **`Security`**
 ![IAM](https://img.shields.io/badge/IAM-633806?style=flat-square&logo=amazonaws&logoColor=white)
