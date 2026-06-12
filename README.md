@@ -143,7 +143,6 @@ I'm currently building two projects — **Deception-as-a-Service** (on-demand ho
 
 **`Code Quality`**
 ![SonarQube](https://img.shields.io/badge/SonarQube-27500A?style=flat-square&logo=sonarqube&logoColor=white)
-![Quality Gates](https://img.shields.io/badge/Quality_Gates-27500A?style=flat-square&logo=sonarqube&logoColor=white)
 
 **`Version Control`**
 ![Git](https://img.shields.io/badge/Git-27500A?style=flat-square&logo=git&logoColor=white)
